@@ -1,0 +1,15 @@
+{
+  "CurrentProjectSetting": null,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "html.format.wrapLineLength": 80,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true
+}

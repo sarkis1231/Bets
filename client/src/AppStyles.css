@@ -1,0 +1,22 @@
+body{
+    margin:0;
+}
+.header{
+    background-color:#f4f2f5;
+    width: 100%;
+    height: 50px;
+}
+.table-style{
+    margin: 24px;
+}
+
+.table-row{
+
+    cursor: pointer;
+    
+}
+
+.table-row:hover{
+    background-color: #3f51b5;
+    color: white;
+}
