@@ -23,8 +23,6 @@ const handleBetsClick = () => {
 
 const Tablee = props => {
   const gameDetails = props.gameDetails;
-  // console.log(gameDetails);
-  // console.log(Object.keys(gameDetails[0]).map(data => data))
   const classes = useStyles();
 
   return (
